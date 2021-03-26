@@ -22,12 +22,18 @@ body{
 
 .main{
     float: right;
+    padding: 30px 30px;
 }
 
 .main-content{
     float: left;
     padding: 0 30px;
     width: 25%;
+    cursor: pointer;
+}
+
+.main-content:hover{
+    box-shadow: 0 10px 30px #cfcfcf ;
 }
 
 .main-content img{
@@ -42,7 +48,7 @@ body{
 
 
 .text-content h2{
-    font-size: 24px;
+    font-size: 21px;
 
 }
 

@@ -17,9 +17,15 @@
 }
 
 @media(min-width: 320px) and (max-width: 760px){
+    
+    .main-title{
+        text-align: center;
+    }
+
    .main-content{
        width: 100%;
-       padding: 30px 90px;
+       padding: 20px 0;
+       text-align: center;
    }
 
    .main-title h1{
