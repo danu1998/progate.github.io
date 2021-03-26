@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    max-width: 1200px;
+    width: 100%;   
+    margin: 0 auto;
+    padding: 0;
+}
+
+.main-wrapper{
+    padding-top: 120px;
+}
+
+.main{
+    float: right;
+}
+
+.main-content{
+    float: left;
+    padding: 0 30px;
+    width: 25%;
+}
+
+.main-content img{
+    width: 240px;
+    padding-top: 120px;
+}
+
+.rating{
+    padding-top: 30px;
+    color: orange;
+}
+
+
+.text-content h2{
+    font-size: 24px;
+
+}
+
+.text-content p{
+    font-size: 18px;
+}
